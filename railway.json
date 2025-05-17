@@ -1,12 +1,12 @@
 {
     "$schema": "https://railway.com/railway.schema.json",
     "build": {
-      "builder": "NIXPACKS"
-    },
-    "deploy": {
-      "runtime": "NODE",
+      "builder": "NIXPACKS",
       "staticAssets": {
         "directory": "dist/frontend/browser"
       }
+    },
+    "deploy": {
+      "runtime": "V2"
     }
   }
