@@ -3,7 +3,7 @@
     "build": {
       "builder": "NIXPACKS",
       "staticAssets": {
-        "directory": "dist/frontend/browser"
+        "directory": "dist/gratitudeapp/browser"
       }
     },
     "deploy": {
