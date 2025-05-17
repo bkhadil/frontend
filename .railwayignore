@@ -1,3 +1,5 @@
 Dockerfile
 docker-compose.yml
-nginx.conf
+nginx.confgit add .railwayignore railway.json
+git commit -m "Ignore Docker files and switch to Nixpacks"
+git push origin main
