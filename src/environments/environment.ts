@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:8077/api'
+  apiUrl:process.env['BACKEND_URL'] || 'http://localhost:8077/api'
 }
