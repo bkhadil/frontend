@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "start": "npx serve dist/gratitudeapp/browser -s"
+    "start": "npx serve dist/gratitudeapp/browser -s --single"
   },
   "private": true,
   "dependencies": {
