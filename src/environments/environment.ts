@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiUrl:process.env['BACKEND_URL'] || 'http://localhost:8077/api'
+  apiUrl: 'https://backendd-production-c5c8.up.railway.app'
 }
