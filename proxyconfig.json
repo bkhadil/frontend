@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "http://localhost:8077",
+    "target": "https://backendd-production-c5c8.up.railway.app",
     "secure": false,
     "changeOrigin": true,
     "logLevel": "debug"
